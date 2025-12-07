@@ -1,0 +1,7 @@
+psycopg2
+pymongo
+pyspark
+pandas
+scikit-learn
+rpy2
+jupyter
