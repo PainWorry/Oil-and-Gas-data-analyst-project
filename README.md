@@ -1,7 +1,8 @@
-# PTT Data Analyst Project: Pipeline Integrity and Logistics Audit
+# Oil and Gas Data Analyst Project: Pipeline Integrity and Logistics Audit
 
 ## Project Overview
-This project focuses on the Integrity and Operational Efficiency of PTT's Gas/Oil Pipeline Network and Logistics Fleet. It utilizes a modern data stack including PostgreSQL, MongoDB, PySpark, Python, and R to minimize risk, ensure compliance, and optimize routes.
+The goal is to build a **Predictive Maintenance System** for energy infrastructure. You will process raw IoT sensor data to predict pipeline failures and optimize logistics fleets.
+By the end, you will have a working **Big Data Pipeline** that automatically flags high-risk equipment for repair *before* it breaks, and a **PowerBI Dashboard** that executives can use to monitor network health in real-time.
 
 ## Project Structure
 - `data/`: Raw and processed data storage.
@@ -41,7 +42,7 @@ If you restart your computer, follow these steps to get back up and running:
 1. Open your terminal (Command Prompt or PowerShell).
 2. Navigate to the project folder:
    ```bash
-   cd "C:\Users\Admin\PTT data analyst\ptt_data_analyst_project"
+   cd "C:\Users\Admin\Oil and Gas data analyst\oil_and_gas_data_analyst_project"
    ```
 3. Activate the virtual environment:
    ```bash
